@@ -1,0 +1,7 @@
+c:\users\su14rickard\documents\visual studio 2013\Projects\GissaTalet\GissaTalet\bin\Debug\GissaTalet.exe.config
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\Lektion övningar\GissaTalet\GissaTalet\bin\Debug\GissaTalet.exe.config
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\Lektion övningar\GissaTalet\GissaTalet\obj\Debug\GissaTalet.csprojResolveAssemblyReference.cache
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\Lektion övningar\GissaTalet\GissaTalet\bin\Debug\GissaTalet.exe
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\Lektion övningar\GissaTalet\GissaTalet\bin\Debug\GissaTalet.pdb
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\Lektion övningar\GissaTalet\GissaTalet\obj\Debug\GissaTalet.exe
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\Lektion övningar\GissaTalet\GissaTalet\obj\Debug\GissaTalet.pdb
